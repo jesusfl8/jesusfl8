@@ -1,7 +1,19 @@
 
 ### Hi there! 👋
-I'm Jesús Fernández, and here you'll find a collection of  projects that I've developed throughout my career.
+I'm Jesús Fernández and this is my personal repo. Here you'll find some projects that I've developed throughout my career.
 
-## About Me
-- Bachelor's degree in Mathematics and Computer Science from the Polytechnic University of Madrid 🎓
-- Data Engineer Consultant at NFQ 💻
+## About Me:
+- 🎓 Bachelor's in Mathematics and Computer Science from the Universidad Politécnica de Madrid.
+- 💻 Data Engineer Consultant at NFQ Advisory Services.
+- 🔧 Proven experience with tools like Python, Atoti, MongoDB, AWS, SQL and Java, building robust data solutions and visualizations.
+- 📊 Always exploring the intersection of AI, Big Data, and business solutions to drive actionable insights.
+
+## Professional Highlights:
+- 🏆 Developed a proof of concept for financial data analysis with Atoti, creating dynamic dashboards for real-time decision-making.
+- 📂 Engineered E2E ETL pipelines and ensured data consistency, handling large datasets and optimizing service performance.
+
+## Interests:
+- 🔍 Passionate about AI and Big Data applications in business.
+- 🎯 Always seeking opportunities to innovate and learn new technologies.
+  
+Check out my projects below, and feel free to reach out via LinkedIn!
