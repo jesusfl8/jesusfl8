@@ -7,6 +7,7 @@ I'm Jesús Fernández and this is my personal repo. Here you'll find some projec
 - 💻 Data Engineer Consultant at NFQ Advisory Services.
 - 🔧 Proven experience with tools like Python, Atoti, MongoDB, AWS, SQL and Java, building robust data solutions and visualizations.
 
+## Professional Highlights:
 - 🏆 Developed a proof of concept for financial data analysis with Atoti, creating dynamic dashboards for real-time decision-making.
 - 📂 Engineered E2E ETL pipelines and ensured data consistency, handling large datasets and optimizing data service performance.
 
