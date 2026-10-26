@@ -4,7 +4,7 @@ I'm Jesús Fernández and this is my personal repo. Here you'll find some projec
 
 ## About Me:
 - 🎓 Bachelor's in Mathematics and Computer Science from the Universidad Politécnica de Madrid.
-- 💻 Data Engineer Consultant at NFQ Advisory Services.
+- 💻 Data Engineer.
 - 🔧 Proven experience with tools like Python, Power BI, MongoDB, AWS, SQL and Java, building robust data solutions and visualizations.
 
 ## Professional Highlights:
